@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sam的小窝
+title: huiqin的小窝
 tagline: 
 ---
 
